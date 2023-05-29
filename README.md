@@ -21,9 +21,7 @@ pip install osmium pandas requests
 
 ### Running the Scripts
 
-1. **Contributor Extraction:** The script `contributor_extraction.py` uses the Osmium library to parse the OSM full history dump for Kenya, filtering out contributions related to places, amenities, and healthcare made in 2022. The output is a list of contributor usernames and their respective contribution counts.
-
-2. **Local Knowledge Extraction:** The script `local_knowledge_extraction.py` employs the Ohsome API to fetch data related to places, amenities, and healthcare from the OSM database for Kenya. The results include various statistics about the contributions.
+**Contributor Extraction:** The script `contributor_extraction.py` uses the Osmium library to parse the OSM full history dump for Kenya, filtering out contributions related to places, amenities, and healthcare made in 2022. The output is a list of contributor usernames and their respective contribution counts.
 
 ### Output
 
