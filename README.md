@@ -39,9 +39,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-- Your Name - Initial work
+- Olamiposi Fagunloye - Initial work
 
-See also the list of [contributors](https://github.com/your/repo/contributors) who participated in this project.
 
 ## License
 
